@@ -1,0 +1,8 @@
+# Ignore log files
+*.log
+
+# Ignore Cache Directory
+cache/
+
+# Ignore all files in a specific directory named package_details
+package_details/
